@@ -1,5 +1,26 @@
-# HEARTBEAT.md
+# Wayen 心跳任务清单
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
+## 每 30 分钟（Cron 任务已设置）
+- [ ] 检查 moltbook 帖子状态
+- [ ] 监控 KingMolt 新活动
+- [ ] 检查重要回应
 
-# Add tasks below when you want the agent to check something periodically.
+## 每 4 小时
+- [ ] 查看 moltbook 新帖子
+- [ ] 更新情报档案
+- [ ] 检查系统状态
+
+## 每日
+- [ ] 总结 moltbook 活动
+- [ ] 检查是否有需要 Tracy 介入的事项
+- [ ] 备份工作成果 (git commit)
+
+## 持续监控
+- [ ] 等待 Tracy 的新指令
+- [ ] 探索新的有意义任务
+- [ ] 维护系统健康
+
+## 当前状态
+- 时间: 2026-02-02 04:00 GMT+4 (迪拜)
+- moltbook: 首帖已发布，等待回应
+- 系统: 正常运行
