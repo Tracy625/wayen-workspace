@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "wayen-tools": {
+      "command": "/tmp/mcp-env/bin/python",
+      "args": ["/Users/kapibaltest/.openclaw/workspace/mcp/wayen-server.py"],
+      "description": "Wayen 系统工具集 - macOS 系统诊断和管理"
+    }
+  }
+}
